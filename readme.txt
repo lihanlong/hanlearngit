@@ -1,2 +1,2 @@
-hello git is a version control system.
+hello git is a distributed version control system.
 world git is free software.
