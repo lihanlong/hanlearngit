@@ -4,3 +4,4 @@ git has a mutable index called stage.hehe haha
 git tracks changes of file;
 git abcdefg
 111111111111111111111111
+222222
